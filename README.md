@@ -19,10 +19,10 @@ The goal of the project is to demonstrate how **motion sensing and servo control
 
 ---
 
-## 🌐 Connect with Us
-We’d love to share insights and collaborate!  
+## 👨‍💻 Contributors:
+Special thanks to :  
 
-- [Ayman Bakleh](https://www.linkedin.com/in/aymanbakleh/)  
+- **Ayman Bakleh** [LinkedIn](https://www.linkedin.com/in/aymanbakleh/)  
 
 ---
 
