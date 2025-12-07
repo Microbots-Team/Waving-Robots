@@ -1,5 +1,14 @@
 # 🤖 Waving-Robot
 
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
+---
+
 ## 💡 Project Overview
 this project is an interactive exhibition project that enhances visitor engagement through a simple yet delightful interaction.  
 When a visitor approaches, the character **automatically waves** to greet them — creating a friendly and dynamic experience.  
